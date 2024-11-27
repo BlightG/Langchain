@@ -41,3 +41,8 @@ Do you want to switch query types? (yes/no):
 ```
 
 depending on your choice you can either continue with what you are doing or choose the opposite
+
+you can exit the tool anytime by typing
+```
+exit
+```
