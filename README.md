@@ -1,6 +1,7 @@
 # LangChain
 
 This repository is an implementation using langchain and a two models from huging face to create a CLI tool that can create SQL queries or translate a given SQL query
+you can also use view the tools application on the google colab workbook attached in the repository
 
 to start the CLI tool
 
